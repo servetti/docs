@@ -1,5 +1,5 @@
 ####################
-Titolo del documento
+Nuovo titolo
 ####################
 
 
@@ -11,5 +11,5 @@ Nel Capitolo 2 vengono presentati ...
 
 .. toctree::
 
-   titolo-capitolo-1.rst
-   titolo-capitolo-2.rst
+   _rst/titolo-capitolo-1.rst
+   _rst/titolo-capitolo-2.rst
